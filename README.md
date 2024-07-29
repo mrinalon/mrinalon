@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Node.js!
 - 💞️ I’m looking to collaborate on data science projects, especially NLP projects!
-- 📫 How to reach me mrinalchaudhury.09@gmail.com
+- 📫 How to reach me - mrinalonandon@gmail.com
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: I climb stairs on tip toes >_<
 
